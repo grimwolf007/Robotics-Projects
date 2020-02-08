@@ -1,0 +1,31 @@
+Setup:
+	Calibrate servo
+
+UltraSonic:
+	input (Server):
+		Config
+			regular stop range
+			in/cm (numbers already in the arduino file)
+	Return (Sensor):
+		time
+
+Collison Avoidance:
+	Return
+		Stopped
+		Distance
+			Distance Left
+			Distance Right
+	
+Motors:
+	Functions:
+		move (rev?,123(Low, Mid, High))
+		stop
+		
+Battery life poll:
+	return battery
+	
+Compass:
+	0 = north (float)
+	
+GPS:
+	Lat/long
