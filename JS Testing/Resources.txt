@@ -1,4 +1,7 @@
-https://www.nodebeginner.org/
-https://appdividend.com/2018/03/16/how-to-build-node-js-web-server/
+https://developers.google.com/maps/documentation/javascript/adding-a-google-map (Google Maps API)
+https://www.webucator.com/how-to/how-add-custom-icon-google-map.cfm (Custom Markers)
+https://www.youtube.com/watch?v=w-OKdSHRlfA (Make a JS game)
+https://www.nodebeginner.org/ (Learning the basics of node)
+https://appdividend.com/2018/03/16/how-to-build-node-js-web-server/ (creating my server environment)
     Downloaded NPM
     using the express module on NPM
